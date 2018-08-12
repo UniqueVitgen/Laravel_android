@@ -1,0 +1,11 @@
+.form-post {
+    border: 5px solid #f6f5f3;
+    padding: 20px 20px;
+    border-radius: 10px;
+    width: 500px;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+}

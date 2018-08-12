@@ -1,0 +1,9 @@
+.article-item {
+    border-left: 10px solid #f6f5f3;
+    padding-left: 30px;
+    margin: 20px 0;
+}
+
+.article-img {
+    width: 300px;
+}
